@@ -1,0 +1,3 @@
+Dari gelas A mengalir sebanyak 500L ke gelas B
+Dari gelas B mengalir sebanyak 150L ke gelas C
+Dari gelas C mengalir sebanyak 0L ke Gelas C
